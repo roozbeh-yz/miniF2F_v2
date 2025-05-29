@@ -4,3 +4,4 @@ miniF2F-v2c: c stands for competition. This is the competition level dataset whe
 
 miniF2F-v2s: s stands for simplified. This is a simplified version of the miniF2F-v2c where all the informal statements are mofified to include the solutions. For example, for AMC problems, all the multiple choice questions are turned into a single option theorem where a specific solution has to be proved. Again, all formal and informal statements exactly match each other.
 
+We plan to release the formal and informal proofs at a later time.
