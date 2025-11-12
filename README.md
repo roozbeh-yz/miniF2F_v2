@@ -25,8 +25,7 @@ We present two modified versions of miniF2F dataset where all the formal and inf
 
 ## Performance of State-Of-The-Art Autoformalizers on miniF2F-v2
 
-**Table 2:** Comparison of autoformalization accuracy of Herald and Kimina translators at @128 between LLM and human evaluators.  
-Back translation and LLM equivalence check pipeline is adopted from Gao et al. (2025).
+**Table 2:** Comparison of autoformalization accuracy of Herald and Kimina translators at @128 between LLM and human evaluators. Back translation and LLM equivalence check pipeline is adopted from [Gao et al. (2025)](https://arxiv.org/abs/2410.10878).
 
 | Translator | Evaluator              | miniF2F-v1 Test | miniF2F-v1 Valid | miniF2F-v2s Test | miniF2F-v2s Valid | miniF2F-v2c Test | miniF2F-v2c Valid |
 |-------------|------------------------|----------------:|-----------------:|-----------------:|------------------:|-----------------:|------------------:|
