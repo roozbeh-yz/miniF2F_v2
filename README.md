@@ -72,7 +72,7 @@ We present two modified versions of miniF2F dataset where all the formal and inf
 ---
 
 ¹ In this setting, simplification is rewarded, even excessively simplified proofs receive full credit.  
-² Olympiad setting: excessively simplified proofs receive no or minimal credit; valid simplifications receive full credit.
+² Olympiad setting: excessively simplified proofs receive no or minimal credit; other simplifications receive full credit.
 
 ## Bibtex Citation
 ```bibtex
