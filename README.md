@@ -6,6 +6,8 @@ We present two modified versions of miniF2F dataset where all the formal and inf
 
 *miniF2F-v2s*: This is a simplified version of the miniF2F-v2c where all the informal statements are mofified to include the solutions. For example, for AMC problems, all the multiple choice questions are turned into a single option theorem where a specific solution has to be proved. Again, all formal and informal statements exactly match each other. (s stands for simplified.)
 
+The dataset is also available on Hugging Face at: https://huggingface.co/datasets/roozbeh-yz/miniF2F_v2
+
 ## Overview of Differences Between miniF2F-v1 & v2s & v2c
 
 ![example](assets/1_vs_2s_vs_2c.png)
